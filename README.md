@@ -9,4 +9,6 @@ The models investigated were random forest, SVM, k-nearest neighbors, naive Baye
 
 This repository includes the .ipynb notebook file as well as the data csv file.
 
+<b>Technologies used for this project:</b> python, pandas, numpy, matplotlib, seaborn, scikit-learn.
+
 ![Image description](https://www.hopkinsmedicine.org/-/media/images/health/3_-wellness/heart-health/heart-hero.ashx?h=500&la=en&mh=500&mw=1300&w=1297&hash=B24ED90CFC0DAA49173D62CC9B030B1E1DC930E7)
